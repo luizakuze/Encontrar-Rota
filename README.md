@@ -30,7 +30,7 @@ _parte do mapa com algumas cidades próximas a Florianópolis_
 - [x] Encontrar a menor rota entre duas cidades desse mapa. 
 - [x] Encontrar a distância da menor rota das cidades.
 - [x] Tratamento de erros ao informar cidades inválidas.
-- [x] Entender o algoritmo DIjkstra
+- [x] Entender o algoritmo DIjkstra.
 
 ## Funcionamento 💻
 
