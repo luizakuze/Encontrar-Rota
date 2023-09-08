@@ -1,4 +1,4 @@
-# Melhor Caminho 💼
+# Melhor Caminho 🚗
 > Autora: Luiza Kuze <br>
 > Projeto de [PRG2](https://github.com/luizakuze/PRG2)
 
