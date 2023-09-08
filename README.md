@@ -34,8 +34,6 @@ _parte do mapa com algumas cidades próximas a Florianópolis_
 
 ## Funcionamento 💻
 
-### Opção 1 - Contabilização de todas as transições 👩🏻‍💻
-
 ```Bash
 # Clonar o repositório do projeto 
 git clone https://github.com/luizakuze/Melhor-Caminho
