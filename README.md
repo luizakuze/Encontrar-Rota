@@ -1,4 +1,4 @@
-# Encontrar Rota 💼
+# Melhor Caminho 💼
 > Autora: Luiza Kuze <br>
 > Projeto de [PRG2](https://github.com/luizakuze/PRG2)
 
@@ -38,10 +38,10 @@ _parte do mapa com algumas cidades próximas a Florianópolis_
 
 ```Bash
 # Clonar o repositório do projeto 
-git clone https://github.com/luizakuze/Encontrar-Rota
+git clone https://github.com/luizakuze/Melhor-Caminho
 
 # Acessar o diretório 
-cd Encontrar-Rota
+cd Melhor-Caminho
 
 # Compilar o projeto
 g++ main.cpp funcoes.cpp -o projeto
@@ -96,4 +96,4 @@ Dada a descrição sobre o algoritmo de Dijkstra acima, é visível a extrema im
 
 ## Licença 📜
 
-Este projeto é licenciado sob a [MIT License](https://github.com/luizakuze/Encontrar-Rota/blob/main/license)
+Este projeto é licenciado sob a [MIT License](https://github.com/luizakuze/Melhor-Caminho/blob/main/license)
