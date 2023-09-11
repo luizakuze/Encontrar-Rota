@@ -22,7 +22,7 @@ Existe um "mapa" que é um arquivo csv que fornece informações sobre cada par 
 | São Pedro de Alcântara	 | Antônio Carlos	| 10             |
 
 _parte do mapa com algumas cidades próximas a Florianópolis_ <br>
-_arquivo: **distancias.csv**_
+_arquivo: [distancias.csv](https://github.com/luizakuze/Melhor-Caminho/blob/main/distancias.csv)_
 
 </div>
   
