@@ -1,5 +1,6 @@
 # Melhor Caminho 🚗
 > Autora: Luiza Kuze <br>
+> Data: 04/07/2023 <br>
 > Projeto de [PRG2](https://github.com/luizakuze/PRG2)
 
 ## Descrição 📌
